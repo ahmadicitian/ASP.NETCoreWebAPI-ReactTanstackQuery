@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ReactORTanstack-Query.API.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ReactORTanstack-Query.API.props" />
+</Project>

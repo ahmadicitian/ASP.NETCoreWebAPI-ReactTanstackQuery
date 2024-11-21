@@ -1,0 +1,149 @@
+import React, { useState } from 'react';
+import { useMutation, useQuery } from '@tanstack/react-query';
+import { getDepartments, createEmployee } from '../../api/TanstackApi';
+
+const AddEmployee = () => {
+    const [formData, setFormData] = useState({
+        fullName: '',
+        position: '',
+        salary: '',
+        imageFile: null,
+        departmentId: '',
+    });
+
+    // Fetch departments for the dropdown
+    const { data: departments, isLoading: isDeptLoading, isError: isDeptError } = useQuery({
+        queryKey: ['Departments'],
+        queryFn: getDepartments,
+    });
+
+    // Mutation for creating an employee
+    const mutation = useMutation({
+        mutationFn: (formData) => createEmployee(formData),
+        onSuccess: () => alert('Employee created successfully!'),
+        onError: (error) => alert('Error creating employee: ' + error.message),
+    });
+
+    // Handle form submission
+    const handleSubmit = (e) => {
+        e.preventDefault();
+
+        const form = new FormData();
+        const dataToAppend = {
+            fullName: formData.fullName,
+            position: formData.position,
+            salary: formData.salary,
+            departmentId: formData.departmentId,
+            imageFile: formData.imageFile,
+        };
+
+        // Dynamically append all keys and values
+        Object.entries(dataToAppend).forEach(([key, value]) => {
+            form.append(key, value);
+        });
+
+        mutation.mutate(form); // Send the form
+        setFormData({
+            fullName: '',
+            position: '',
+            salary: '',
+            imageFile: null,
+            departmentId: '',
+        });
+    };
+
+    // Handle form field changes
+    const handleChange = (e) => {
+        const { name, value } = e.target;
+        setFormData((prev) => ({ ...prev, [name]: value }));
+    };
+
+    const handleFileChange = (e) => {
+        setFormData((prev) => ({ ...prev, imageFile: e.target.files[0] }));
+    };
+
+    if (isDeptLoading) return <p>Loading departments...</p>;
+    if (isDeptError) return <p>Error loading departments!</p>;
+
+    return (
+        <div className="container mx-auto p-6 bg-gray-100 shadow-md rounded-lg">
+            <h1 className="text-2xl font-bold mb-4">Create Employee</h1>
+            <form onSubmit={handleSubmit} className="space-y-4">
+                <div>
+                    <label className="block text-sm font-medium">Full Name</label>
+                    <input
+                        type="text"
+                        name="fullName"
+                        value={formData.fullName}
+                        onChange={handleChange}
+                        required
+                        className="block w-full px-4 py-2 border rounded-md"
+                    />
+                </div>
+                <div>
+                    <label className="block text-sm font-medium">Position</label>
+                    <select
+                        name="position"
+                        value={formData.position}
+                        onChange={handleChange}
+                        required
+                        className="block w-full px-4 py-2 border rounded-md"
+                    >
+                        <option value="">Select Position</option>
+                        <option value="Manager">Manager</option>
+                        <option value="CEO">CEO</option>
+                        <option value="Worker">Worker</option>
+                    </select>
+                </div>
+                <div>
+                    <label className="block text-sm font-medium">Salary</label>
+                    <input
+                        type="number"
+                        name="salary"
+                        value={formData.salary}
+                        onChange={handleChange}
+                        required
+                        className="block w-full px-4 py-2 border rounded-md"
+                    />
+                </div>
+                <div>
+                    <label className="block text-sm font-medium">Department</label>
+                    <select
+                        name="departmentId"
+                        value={formData.departmentId}
+                        onChange={handleChange}
+                        required
+                        className="block w-full px-4 py-2 border rounded-md"
+                    >
+                        <option value="">Select Department</option>
+                        {departments?.dataList.map((dept) => (
+                            <option key={dept.departmentId} value={dept.departmentId}>
+                                {dept.name}
+                            </option>
+                        ))}
+                    </select>
+                </div>
+                <div>
+                    <label className="block text-sm font-medium">Upload Image</label>
+                    <input
+                        type="file"
+                        name="imageFile"
+                        accept="image/*"
+                        onChange={handleFileChange}
+                        required
+                        className="block w-full px-4 py-2 border rounded-md"
+                    />
+                </div>
+                <button
+                    type="submit"
+                    className="px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600"
+                    disabled={mutation.isLoading}
+                >
+                    {mutation.isLoading ? 'Creating...' : 'Create Employee'}
+                </button>
+            </form>
+        </div>
+    );
+};
+
+export default AddEmployee;

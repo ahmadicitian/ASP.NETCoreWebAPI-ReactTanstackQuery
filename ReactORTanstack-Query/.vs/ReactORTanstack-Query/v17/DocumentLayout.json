@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\models\\dtos\\employee\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\models\\dtos\\employee\\employeecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\profiles\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\profiles\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|d:\\2024 - practice\\asp.netcorewebapi\u002Breacttanstackquery\\reactortanstack-query\\reactortanstack-query.api\\models\\dtos\\employee\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\models\\dtos\\employee\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\models\\dtos\\employee\\employeegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\models\\dtos\\employee\\employeegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\reactortanstack-query.api\\models\\dtos\\department\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86301253-5EC9-479D-931B-BF81724617DB}|ReactORTanstack-Query.API\\ReactORTanstack-Query.API.csproj|solutionrelative:reactortanstack-query.api\\models\\dtos\\department\\departmentgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeCreateDto.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeCreateDto.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeCreateDto.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeCreateDto.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeCreateDto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:37:37.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Repository\\Repository.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Repository\\Repository.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Repository\\Repository.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAswE4AAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:01:06.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Program.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Program.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Program.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADgvx4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T02:42:34.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Controllers\\DepartmentController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:39:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Profiles\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Profiles\\MappingConfig.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Profiles\\MappingConfig.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Profiles\\MappingConfig.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T04:10:29.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Repository\\IRepository\\IRepository.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Repository\\IRepository\\IRepository.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Repository\\IRepository\\IRepository.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Repository\\IRepository\\IRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBAAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:01:09.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeUpdateDto.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeUpdateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T05:55:40.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAAAJUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:59:53.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeGetDto.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeGetDto.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeGetDto.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeGetDto.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Models\\DTOs\\Employee\\EmployeeGetDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:59:43.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DepartmentGetDto.cs",
+              "DocumentMoniker": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Models\\DTOs\\Department\\DepartmentGetDto.cs",
+              "RelativeDocumentMoniker": "ReactORTanstack-Query.API\\Models\\DTOs\\Department\\DepartmentGetDto.cs",
+              "ToolTip": "D:\\2024 - Practice\\ASP.NETCoreWebAPI\u002BReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\Models\\DTOs\\Department\\DepartmentGetDto.cs",
+              "RelativeToolTip": "ReactORTanstack-Query.API\\Models\\DTOs\\Department\\DepartmentGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T03:59:37.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

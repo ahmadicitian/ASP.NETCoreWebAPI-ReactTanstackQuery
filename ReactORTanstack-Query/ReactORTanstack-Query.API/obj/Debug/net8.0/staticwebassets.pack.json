@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\23390566-8827-4e61-b525-ab388adb0100.png",
+      "PackagePath": "staticwebassets\\images\\23390566-8827-4e61-b525-ab388adb0100.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\34d3d65f-00e0-4dc0-9ab6-608ea442bc8b.png",
+      "PackagePath": "staticwebassets\\images\\34d3d65f-00e0-4dc0-9ab6-608ea442bc8b.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\416b37e3-7956-43a0-892e-89b565de8bf3.png",
+      "PackagePath": "staticwebassets\\images\\416b37e3-7956-43a0-892e-89b565de8bf3.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\479121d2-675b-4833-8af4-35cc7d9e2602.png",
+      "PackagePath": "staticwebassets\\images\\479121d2-675b-4833-8af4-35cc7d9e2602.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\8f45e65b-de43-48ad-ad82-057149e57797.png",
+      "PackagePath": "staticwebassets\\images\\8f45e65b-de43-48ad-ad82-057149e57797.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\924cb3dc-2341-4bbe-9621-15a29c39f908.png",
+      "PackagePath": "staticwebassets\\images\\924cb3dc-2341-4bbe-9621-15a29c39f908.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\9ab97633-7b71-4ed5-8d79-169d64969039.png",
+      "PackagePath": "staticwebassets\\images\\9ab97633-7b71-4ed5-8d79-169d64969039.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\c6c4c2a1-ce55-43a4-8c3b-863cbc5fbbca.png",
+      "PackagePath": "staticwebassets\\images\\c6c4c2a1-ce55-43a4-8c3b-863cbc5fbbca.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\d675aed7-83ae-4903-86f0-94a176a37723.png",
+      "PackagePath": "staticwebassets\\images\\d675aed7-83ae-4903-86f0-94a176a37723.png"
+    },
+    {
+      "Id": "D:\\2024 - Practice\\ASP.NETCoreWebAPI+ReactTanstackQuery\\ReactORTanstack-Query\\ReactORTanstack-Query.API\\wwwroot\\images\\df1b9c8b-6e71-4202-a0da-9ae3bee4d596.jpg",
+      "PackagePath": "staticwebassets\\images\\df1b9c8b-6e71-4202-a0da-9ae3bee4d596.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ReactORTanstack-Query.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ReactORTanstack-Query.API.props",
+      "PackagePath": "build\\ReactORTanstack-Query.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ReactORTanstack-Query.API.props",
+      "PackagePath": "buildMultiTargeting\\ReactORTanstack-Query.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ReactORTanstack-Query.API.props",
+      "PackagePath": "buildTransitive\\ReactORTanstack-Query.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
